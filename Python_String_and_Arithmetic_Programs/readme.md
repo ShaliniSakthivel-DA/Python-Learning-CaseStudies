@@ -33,4 +33,4 @@ This project contains Python programs for practicing basic concepts such as arit
 - Python
 
 ## Author
-Nandhini Palanivel
+Shalini Sakthivel
