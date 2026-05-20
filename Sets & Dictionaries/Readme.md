@@ -80,8 +80,6 @@ Total Courses: 5
 
 ---
 
----
-
 ## 🚀 How to Run
 1. Install Python (if not installed)
 2. Copy the code into a `.py` file
@@ -101,6 +99,3 @@ After completing this project, you will understand:
 
 ## 👩‍💻 Author
 Shalini – Data Analytics Learner
-
-Shalini – Data Analytics Learner
-
