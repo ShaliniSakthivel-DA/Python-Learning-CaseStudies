@@ -80,7 +80,27 @@ Total Courses: 5
 
 ---
 
+---
+
+## 🚀 How to Run
+1. Install Python (if not installed)
+2. Copy the code into a `.py` file
+3. Run the file using:
+
+
+---
+
+## 📌 Learning Outcome
+After completing this project, you will understand:
+- How to use Sets for unique data handling
+- How to manage structured data using Dictionaries
+- Basic CRUD operations in Python
+- Real-world data organization techniques
+
+---
+
 ## 👩‍💻 Author
+Shalini – Data Analytics Learner
 
 Shalini – Data Analytics Learner
 
