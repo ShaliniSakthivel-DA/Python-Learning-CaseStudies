@@ -33,6 +33,8 @@ It helps in understanding how to store, update, and manipulate structured data e
 - Displays total number of courses
 - Prints final course list
 
+
+
 ### 🔹 Student Data Management (Using Dictionary)
 - Stores student details (name, age, course)
 - Adds new student data dynamically
@@ -80,6 +82,7 @@ Total Courses: 5
 
 ---
 
+
 ## 🚀 How to Run
 1. Install Python (if not installed)
 2. Copy the code into a `.py` file
@@ -96,6 +99,27 @@ After completing this project, you will understand:
 - Real-world data organization techniques
 
 ---
+## 📚 Concepts Used
+- Sets
+- Union
+- Intersection
+- Difference
+- Symmetric Difference
+
+---
+
+## 🧾 Sample Output
+
+A: {'Red', 'Green', 'Yellow'}  
+B: {'Yellow', 'Orange', 'Red'}
+
+Union: {'Red', 'Green', 'Yellow', 'Orange'}  
+Intersection: {'Red', 'Yellow'}  
+Difference (A-B): {'Green'}  
+Difference (B-A): {'Orange'}  
+Symmetric Difference: {'Green', 'Orange'}
+
+--- 
 
 ## 👩‍💻 Author
 Shalini – Data Analytics Learner
